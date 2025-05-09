@@ -21,7 +21,6 @@ This project demonstrates the deployment of a simple Node.js application on a Ku
 
 ```
 
-.
 ├── app.js              # Node.js application entry point
 ├── Dockerfile          # Docker image definition
 ├── package.json        # Node.js dependencies and metadata
